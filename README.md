@@ -22,4 +22,4 @@ Travifai is a modern, interactive travel platform built as a static website usin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/travifai.git
+   https://github.com/BhanuPrakashPandey0843/Travifai.git
